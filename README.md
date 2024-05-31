@@ -44,14 +44,14 @@ To set up this project, you need to have Python installed on your machine. Follo
 
 4. **Run the keylogger:**
    ```sh
-   python keylogger_tool.py
+   python keylog.py
    ```
 
 ## Usage
 
 1. **Run the keylogger script:**
    ```sh
-   python keylogger_tool.py
+   python keylog.py
    ```
 
 2. **Enter the duration:**
@@ -68,7 +68,7 @@ To set up this project, you need to have Python installed on your machine. Follo
 
 ### Running the Keylogger
 ```sh
-$ python keylogger_tool.py
+$ python keylog.py
 Enter the duration for which you want to run the keylogger (in seconds):
 10
 Time duration to run: 10 seconds
